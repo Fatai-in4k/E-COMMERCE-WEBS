@@ -35,7 +35,7 @@ const BrandStory = () => {
               Our Story
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-400 mb-6 leading-relaxed">
-              Founded in 1998, LUXE began as a small boutique with a simple mission: to create 
+              Founded in 2025, UrbanFatai began as a small boutique with a simple mission: to create 
               timeless fashion pieces that celebrate individuality and craftsmanship. What started 
               as a passion project has grown into a globally recognized brand.
             </p>
